@@ -79,6 +79,14 @@ This step of the analysis invovled answering key questions:
 
 ### 📖 Recommendations
 
+1. Improve Data Collection:
+
+The larger the sample size, the higher the report's quality and the accuracy of the findings. As a result, the dataset should contain few or no unknown or missing values.
+
+2. Invest in Cutting-Edge Technology:
+
+Investigate and invest in technological innovations like advanced analytics and machine learning algorithms to detect patterns, trends, and potential outliers in data. These technologies can help you derive valuable insights even from vast and complex datasets. These technoligies are less likely to make mistakes or miss any important details.
+
 ### ⏳ Limitations
 
 The presence of missing or unknown variables in a terrorism dataset significantly reduces the quality and integrity of any analysis or report based on such data. This restriction is due to several factors that can affect the findings' reliability and comprehensiveness.
@@ -98,3 +106,10 @@ Missing values can cause inconsistencies in reporting by forcing analysts to mak
 ### 🔖 References
 
 In order to complete this project, I watched a number of YouTube videos; here are a few that I found quite helpful:
+
+1. Power BI installation:
+   - [Watch Tutoril 1 Here](https://youtu.be/TmhQCQr_DCA?si=n9M3BtTqsra8JCBx)
+   - [Watch Tutorial 2 Here](https://youtu.be/NNSHu0rkew8?si=jn8xYbfOsovmpeBl)
+  
+2. Power BI Tutorial for Beginners (2024) by Guy in a Cube:
+   - [Watch Tutorial Here](https://youtu.be/udzsJqUZPrY?si=qgCRE0fW47Zl6M7l)
